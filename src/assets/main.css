@@ -1,18 +1,17 @@
 @import './base.css';
 
-
 body.light-theme {
-    background-color: #ffffff;
+    background-color: #eeeeee;
     color: #000000;
-  }
-  
-  body.dark-theme {
-    background-color: #000000;
+}
+
+body.dark-theme {
+    background-color: #323232e8;
     color: #ffffff;
-  }
-  
-  button {
+}
+
+button {
     padding: 10px 20px;
     font-size: 16px;
     cursor: pointer;
-  }
+}
